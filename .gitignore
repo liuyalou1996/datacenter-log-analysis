@@ -1,0 +1,11 @@
+target/classes/log4j.properties
+target/classes/META-INF/maven/com.iboxpay/datacenter-log-analysis/pom.xml
+target/classes/META-INF/maven/com.iboxpay/datacenter-log-analysis/pom.properties
+.classpath
+target/classes/META-INF/MANIFEST.MF
+config/server.json
+app.log
+.settings/org.eclipse.m2e.core.prefs
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.core.resources.prefs
+.project
